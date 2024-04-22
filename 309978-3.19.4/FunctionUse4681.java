@@ -1,0 +1,7 @@
+import com.google.protobuf.DescriptorProtos.FileDescriptorProtoOrBuilder;
+public class FunctionUse4681 {
+public void funcUse() {
+FileDescriptorProtoOrBuilder filedescriptorprotoorbuilder = new FileDescriptorProtoOrBuilder();
+filedescriptorprotoorbuilder.hasName();
+}
+}

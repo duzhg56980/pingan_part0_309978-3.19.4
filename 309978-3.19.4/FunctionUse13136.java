@@ -1,0 +1,7 @@
+import com.google.protobuf.Timestamp.Builder;
+public class FunctionUse13136 {
+public void funcUse() {
+Builder builder = new Builder();
+builder.addRepeatedField(null,null);
+}
+}
